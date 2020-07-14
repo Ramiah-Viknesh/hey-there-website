@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="326px" height="8px" viewBox="0 0 326 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>divider</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage-Rebrand" transform="translate(-538.000000, -538.000000)">
+            <g id="divider" transform="translate(539.000000, 538.000000)">
+                <line x1="0.5" y1="3.5" x2="141" y2="4" id="Line" stroke="#FFD60A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="183.25" y1="3.5" x2="323.75" y2="4" id="Line-Copy" stroke="#FFD60A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <circle id="Oval" fill="#444446" cx="162" cy="4" r="4"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

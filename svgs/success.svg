@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>success</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Host-convo---link-copied" transform="translate(-666.000000, -225.000000)">
+            <g id="modal-window" transform="translate(383.000000, 80.000000)">
+                <g id="success" transform="translate(283.000000, 145.000000)">
+                    <circle id="Oval" fill="#1DF2BD" cx="34" cy="34" r="34"></circle>
+                    <polyline id="Path" stroke="#1D252C" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" points="20 34 28.3021063 44 47 24"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

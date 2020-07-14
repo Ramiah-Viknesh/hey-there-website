@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1099px" height="640px" viewBox="0 0 1099 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>chat-bkgd</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1099" height="640"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Single-conversation-page" transform="translate(-301.000000, -60.000000)">
+            <g id="chat-area" transform="translate(301.000000, 60.000000)">
+                <g id="chat-bkgd-designs">
+                    <g id="chat-bkgd">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                        <circle id="Oval" stroke="#1DF2BD" stroke-width="30" opacity="0.101981027" mask="url(#mask-2)" cx="194" cy="618" r="178"></circle>
+                        <circle id="Oval-Copy-3" stroke="#DE1DF2" stroke-width="30" opacity="0.101981027" mask="url(#mask-2)" cx="1091.5" cy="411.5" r="121.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
